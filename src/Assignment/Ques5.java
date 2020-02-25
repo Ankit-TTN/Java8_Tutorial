@@ -21,7 +21,7 @@ public class Ques5 {
             return ret;
         };
 
-        supplier.get();
+        System.out.println(supplier.get());
 
         Function<Integer,Integer> fun = (a) -> 2 + a;
         System.out.println(fun.apply(2));

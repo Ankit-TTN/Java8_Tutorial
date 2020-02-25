@@ -2,6 +2,7 @@ package Assignment;
 
 import java.util.*;
 
+// Find the first even number in the integer list which is greater than 3.
 public class Ques12 {
     public static void main(String[] args) {
         Random rand = new Random();

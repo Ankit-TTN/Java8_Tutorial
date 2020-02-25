@@ -1,5 +1,6 @@
 package Assignment;
 
+// Collect all the even numbers from an integer list.
 interface Ione{
     default void display(){
         System.out.println("Hello");
